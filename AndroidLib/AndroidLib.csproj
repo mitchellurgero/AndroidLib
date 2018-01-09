@@ -90,6 +90,15 @@
   <ItemGroup>
     <EmbeddedResource Include="Resources\AAPT\aapt.exe" />
   </ItemGroup>
+  <ItemGroup>
+    <Content Include="Resources\AndroidController\libwinpthread-1.dll" />
+    <Content Include="Resources\AndroidController\make_f2fs.exe" />
+    <Content Include="Resources\AndroidController\mke2fs.exe" />
+    <Content Include="Resources\AndroidController\sqlite3.exe" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\AndroidController\mke2fs.conf" />
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
