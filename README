@@ -6,9 +6,3 @@ I am just continuing this amazing project since it has not updated since 2015.
 NET Framework class to interface and manage Android devices
 
 This repo is built off the original (See header info^). Updated with latest fastboot, adb, and windows usb dlls.
-
-
-
-This is the source for AndroidLib.  To download the compiled dll and documentation, please visit AndroidLib's XDA-Developers thread.
-
-AndroidLib on XDA-Developers - http://forum.xda-developers.com/showthread.php?t=1512685
